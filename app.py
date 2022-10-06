@@ -5,4 +5,6 @@ import tensorflow as tf
 
 import sklearn 
 
-#changes to be applied
+
+from tensorflow.keras.layers import Layer
+
